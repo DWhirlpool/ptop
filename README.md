@@ -1,7 +1,9 @@
-# DWhirlpool
+# **Deprecated:** DWhirlpool
 ## Presents
 ### Ptop
 #### Top, But Written in Python
+
+Maintained at [ptop-py/ptop](https://github.com/ptop-py/ptop)
 
 [![GitHub][github-badge]][github-sponsors]
 [![Ko-Fi][kofi-badge]][kofi]
